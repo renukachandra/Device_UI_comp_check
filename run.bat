@@ -1,0 +1,1 @@
+pybot Single_device_test.robot
