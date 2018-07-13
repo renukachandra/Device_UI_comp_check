@@ -9,4 +9,4 @@ robot framework appiumlibrary
 
 steps:
 1. run a terminal and run "appium -p 4723" to start appium 
-Edit single_device_test.robot as per your device and execute run.bat to run
+2. Edit single_device_test.robot as per your device and execute run.bat to run
